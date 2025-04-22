@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mehak Singla</h1>
 <p align="center">
   <em>Final year B.Tech student at <strong>Dr. B.R. Ambedkar National Institute of Technology, Jalandhar</strong><br/>
-  Passionate about building impactful tech and solving real-world problems 💡</em>
+  Upcoming <strong>SDE Intern @ Microsoft</strong> 💻 | Passionate about building impactful tech and solving real-world problems 💡</em>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 Currently working on **Multimodal Health Diagnosis Platform & DigiCare Health Portal**
-- 🌱 Learning and exploring **Deep Learning, Medical Imaging, AI in Healthcare**
+- 🌱 Exploring **Deep Learning, Medical Imaging, AI in Healthcare**
 - 💬 Ask me about **React, Node.js, MongoDB, Express, Tailwind, Python, and APIs**
 - ⚡ Fun fact: I believe every good idea starts with a 💡 and a cup of ☕
 - 📫 Reach me at: mehaksingla2005@gmail.com
@@ -48,24 +48,23 @@
 
 ---
 
-### 🏅 Open Source Participation & Community
+### 🏅 Open Source & Community
 
 - 🎓 GSSoC'24 Contributor
-- 🌍 Building projects aligned with **UN Sustainable Development Goals (SDGs)**
+- 🌍 Projects aligned with **UN Sustainable Development Goals (SDGs)**
 - 💼 Intern @ Byteoski Developers
-- 🎤 Organizer | Hackathon Host | RTIST & LADC club | XCeed NITJ
+- 🎤 Organizer | Hackathon Host | RTIST & LADC | XCeed NITJ
 
 ---
 
 ### 🔗 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/mehaksingla2005" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin"/></a>
+  <a href="https://linkedin.com/in/mehak-singla-b6a655258" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin"/></a>
   <a href="mailto:mehaksingla2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/mehaksingla2005"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
 </p>
 
 ---
 
-*“The best way to predict the future is to create it.” – Abraham Lincoln*
-
+<p align="center"><em>“The best way to predict the future is to create it.” – Abraham Lincoln</em></p>
